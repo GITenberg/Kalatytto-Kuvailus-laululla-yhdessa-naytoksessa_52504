@@ -1,0 +1,22 @@
+_repo: Kalatytto-Kuvailus-laululla-yhdessa-naytoksessa_52504
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Calonius, Laura
+    gutenberg_agent_id: '46900'
+    url: http://www.gutenberg.org/2009/agents/46900
+description: ''
+gutenberg_issued: '2016-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52504'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Finnish drama -- 19th century'
+- GITenberg
+title: 'Kalatyttö: Kuvailus laululla yhdessä näytöksessä'
+url: http://www.gutenberg.org/ebooks/52504
